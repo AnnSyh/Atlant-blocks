@@ -25,4 +25,4 @@ Grid
 
 ##### Просмотр:
 
-https://annsyh.github.io/....
+https://annsyh.github.io/Atlant-blocks/
