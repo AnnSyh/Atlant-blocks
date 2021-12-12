@@ -1,0 +1,11 @@
+.page {
+    font-family: "SFProDisplay";
+    font-size: 16px;
+    color: #1e1e1e;
+    line-height: 1.5;
+    cursor: default;
+    max-width: 1598px;
+    box-sizing: border-box;
+    margin: 0 auto;
+    min-width: 320px;
+}

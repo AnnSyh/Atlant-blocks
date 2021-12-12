@@ -1,0 +1,11 @@
+.sections-list__link {
+    font-family: SF Pro Display;
+    font-size: 16px;
+    line-height: 24px;
+    padding: 11px 40px;
+    color: #1D1D1D;
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: #F7F5F5;
+    border-radius: 50px;
+}

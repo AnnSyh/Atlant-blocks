@@ -1,0 +1,6 @@
+.sections-list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 1141px;
+}

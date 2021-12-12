@@ -1,0 +1,8 @@
+.brand-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    max-width: 525px;
+    margin: auto auto 40px auto;
+}

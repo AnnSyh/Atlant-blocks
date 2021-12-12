@@ -1,0 +1,9 @@
+.cards__hit {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background-color: #1D1D1D;
+    color: #fff;
+    border-radius: 5px;
+    padding: 0 6px;
+}
