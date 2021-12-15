@@ -19,3 +19,7 @@
     background-color: transparent;
     margin-bottom: 20px;
 }
+
+.cards__2xitem .cards__img {
+    object-fit: none;
+}
